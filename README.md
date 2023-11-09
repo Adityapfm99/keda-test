@@ -33,15 +33,15 @@ from the documentation.
 To learn the software, we recommend the <a href="https://www.odoo.com/slides">Odoo eLearning</a>, or <a href="https://www.odoo.com/page/scale-up-business-game">Scale-up</a>, the <a href="https://www.odoo.com/page/scale-up-business-game">business game</a>. Developers can start with <a href="https://www.odoo.com/documentation/16.0/developer/howtos.html">the developer tutorials</a>
 
 # ERD
-
-# Short Video
-
+https://drive.google.com/file/d/1YYg4iXjd4H9Xt0lztQ5Z6gqNlL3-2V9p/view?usp=drive_link
 
 # How to start
 
 run : ./odoo-bin -c odoo.conf 
 
 # Unit testing
+screenshot: https://drive.google.com/file/d/1vQT2hTnD4D3LIsykQ-eXAGS_de97MqnD/view?usp=drive_link
+
 
 run : ./odoo-bin -c odoo.conf -u material_test --test-enable
 
